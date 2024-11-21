@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://drive.google.com/file/d/1gVZ4djXO86Kr64X_V_MBoDXgtqxB3HT8/view?usp=drive_link"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -19,13 +15,13 @@
 ###
 
 <div align="left">
-  <a href="https://github.com/Balmantjr" target="_blank">
+  <a href="https://discord.gg/Js669Tzq" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="ricardo.balmantjr@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/ricardobalmantjunior" target="_blank">
+  <a href="https://www.linkedin.com/in/ricardobalmantjunior/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
